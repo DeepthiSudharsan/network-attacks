@@ -1,4 +1,4 @@
-## DHCP Snooping CPT
+## DHCP Snooping Cisco Packet Tracer
 
 ### References/Resources
 
